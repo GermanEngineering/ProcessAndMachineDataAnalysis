@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <settings>
+    <mySQLConnectionString mySQLConnectionString="server=localhost;database=process_and_machine_data;uid=root;password="/>
+    <mySQLConnPW mySQLConnPW="hNYgwZt8ITa4Ln+VvSTLVA=="/>
+    <decryptKey decryptKey="Miau"/>
+    <smtp host="172.16.99.99" port="99" credentialsUser="pk" credentialsPassword="gYEeirnDo4e6fv28HbixZaQe+VK1O7165QXlQpzI=" decryptKey="Miau"/>    
+    <mail sender="sender@gmail.com@solar.com" 
+          subject="ProductionKeyFigures" 
+          body="Good morning, &lt;br /&gt;
+                &lt;br /&gt;
+                E-Mail Body Text.&lt;br /&gt;"
+          reciever="reciever@gmail.com, reciever2@gmail.com"/>    
+  </settings>
+</configuration>

@@ -1,0 +1,11 @@
+D:\Neuer Ordner\projects\2017.05.18Produktionskennzahlen\Screenshot\Screenshot\bin\Debug\Screenshot.exe.config
+D:\Neuer Ordner\projects\2017.05.18Produktionskennzahlen\Screenshot\Screenshot\obj\Debug\Screenshot.Properties.Resources.resources
+D:\Neuer Ordner\projects\2017.05.18Produktionskennzahlen\Screenshot\Screenshot\obj\Debug\Screenshot.csproj.GenerateResource.Cache
+D:\Neuer Ordner\projects\2017.05.18Produktionskennzahlen\Screenshot\Screenshot\bin\Debug\Screenshot.exe
+D:\Neuer Ordner\projects\2017.05.18Produktionskennzahlen\Screenshot\Screenshot\bin\Debug\Screenshot.pdb
+D:\Neuer Ordner\projects\2017.05.18Produktionskennzahlen\Screenshot\Screenshot\bin\Debug\generalFunctionsClassLib.dll
+D:\Neuer Ordner\projects\2017.05.18Produktionskennzahlen\Screenshot\Screenshot\bin\Debug\generalFunctionsClassLib.pdb
+D:\Neuer Ordner\projects\2017.05.18Produktionskennzahlen\Screenshot\Screenshot\obj\Debug\Screenshot.exe
+D:\Neuer Ordner\projects\2017.05.18Produktionskennzahlen\Screenshot\Screenshot\obj\Debug\Screenshot.pdb
+D:\Neuer Ordner\projects\2017.05.18Produktionskennzahlen\Screenshot\Screenshot\obj\Debug\Screenshot.frmPRDKZ.resources
+D:\Neuer Ordner\projects\2017.05.18Produktionskennzahlen\Screenshot\Screenshot\bin\Debug\MySql.Data.dll

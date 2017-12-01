@@ -1,0 +1,94 @@
+
+09.11.2017 20:58:24 - EXCEPTION || Message: Unable to connect to any of the specified MySQL hosts. || StackTrace:    bei MySql.Data.MySqlClient.NativeDriver.Open()
+   bei MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   bei MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   bei MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   bei MySql.Data.MySqlClient.MySqlConnection.Open()
+   bei Visualization.FrmVisualization.UpdateForm() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 79.
+09.11.2017 20:59:14 - EXCEPTION || Message: Unable to connect to any of the specified MySQL hosts. || StackTrace:    bei MySql.Data.MySqlClient.NativeDriver.Open()
+   bei MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   bei MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   bei MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   bei MySql.Data.MySqlClient.MySqlConnection.Open()
+   bei Visualization.FrmVisualization.UpdateForm() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 79.
+09.11.2017 20:59:42 - EXCEPTION || Message: Unable to connect to any of the specified MySQL hosts. || StackTrace:    bei MySql.Data.MySqlClient.NativeDriver.Open()
+   bei MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   bei MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   bei MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   bei MySql.Data.MySqlClient.MySqlConnection.Open()
+   bei Visualization.FrmVisualization.UpdateForm() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 79.
+09.11.2017 21:00:19 - EXCEPTION || Message: Unable to connect to any of the specified MySQL hosts. || StackTrace:    bei MySql.Data.MySqlClient.NativeDriver.Open()
+   bei MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   bei MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   bei MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   bei MySql.Data.MySqlClient.MySqlConnection.Open()
+   bei Visualization.FrmVisualization.UpdateForm() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 79.
+09.11.2017 21:03:08 - EXCEPTION || Message: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt. || StackTrace:    bei Visualization.FrmVisualization.UpdateForm() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 73.
+09.11.2017 21:03:28 - EXCEPTION || Message: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt. || StackTrace:    bei Visualization.FrmVisualization.UpdateForm() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 73.
+09.11.2017 21:04:12 - EXCEPTION || Message: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt. || StackTrace:    bei Visualization.FrmVisualization.UpdateForm() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 73.
+09.11.2017 21:04:42 - EXCEPTION || Message: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt. || StackTrace:    bei Visualization.FrmVisualization.UpdateForm() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 73.
+09.11.2017 21:05:45 - EXCEPTION || Message: Der Ausdruck muss in einem Knotensatz resultieren. || StackTrace:    bei MS.Internal.Xml.XPath.XPathParser.ParseNodeTest(AstNode qyInput, AxisType axisType, XPathNodeType nodeType)
+   bei MS.Internal.Xml.XPath.XPathParser.ParseStep(AstNode qyInput)
+   bei MS.Internal.Xml.XPath.XPathParser.ParseRelativeLocationPath(AstNode qyInput)
+   bei MS.Internal.Xml.XPath.XPathParser.ParseLocationPath(AstNode qyInput)
+   bei MS.Internal.Xml.XPath.XPathParser.ParsePathExpr(AstNode qyInput)
+   bei MS.Internal.Xml.XPath.XPathParser.ParseUnionExpr(AstNode qyInput)
+   bei MS.Internal.Xml.XPath.XPathParser.ParseUnaryExpr(AstNode qyInput)
+   bei MS.Internal.Xml.XPath.XPathParser.ParseMultiplicativeExpr(AstNode qyInput)
+   bei MS.Internal.Xml.XPath.XPathParser.ParseAdditiveExpr(AstNode qyInput)
+   bei MS.Internal.Xml.XPath.XPathParser.ParseRelationalExpr(AstNode qyInput)
+   bei MS.Internal.Xml.XPath.XPathParser.ParseEqualityExpr(AstNode qyInput)
+   bei MS.Internal.Xml.XPath.XPathParser.ParseAndExpr(AstNode qyInput)
+   bei MS.Internal.Xml.XPath.XPathParser.ParseOrExpr(AstNode qyInput)
+   bei MS.Internal.Xml.XPath.XPathParser.ParseExpresion(AstNode qyInput)
+   bei MS.Internal.Xml.XPath.XPathParser.ParseXPathExpresion(String xpathExpresion)
+   bei System.Xml.XPath.XPathExpression.Compile(String xpath, IXmlNamespaceResolver nsResolver)
+   bei System.Xml.XPath.XPathNavigator.Select(String xpath)
+   bei System.Xml.XmlNode.SelectNodes(String xpath)
+   bei System.Xml.XmlNode.SelectSingleNode(String xpath)
+   bei Visualization.FrmVisualization.UpdateForm() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 73.
+09.11.2017 21:07:10 - EXCEPTION || Message: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '('LineA') AND quality REGEXP 'A' GROUP BY ROUND(pmpp,2)' at line 1 || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   bei System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   bei System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   bei System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   bei System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   bei Visualization.FrmVisualization.PowerDistributionChart() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 244.
+09.11.2017 21:34:22 - EXCEPTION || Message: Der angegebene Schlüssel war nicht im Wörterbuch angegeben. || StackTrace:    bei System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   bei Visualization.FrmVisualization.KeyfiguresTable() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 352.
+09.11.2017 21:35:55 - EXCEPTION || Message: Der angegebene Schlüssel war nicht im Wörterbuch angegeben. || StackTrace:    bei System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   bei Visualization.FrmVisualization.KeyfiguresTable() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 352.
+09.11.2017 21:41:10 - EXCEPTION || Message: Unknown column 'class' in 'where clause' || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   bei Visualization.FrmVisualization.AddNewRow(String sRowName, List`1 liKeyfigureNames, String sDataToSelect, String sFilter, DataTable dt, Int32 iDecimals) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 416.
+09.11.2017 21:41:21 - EXCEPTION || Message: Unknown column 'class' in 'where clause' || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   bei Visualization.FrmVisualization.AddNewRow(String sRowName, List`1 liKeyfigureNames, String sDataToSelect, String sFilter, DataTable dt, Int32 iDecimals) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 416.
+09.11.2017 21:41:22 - EXCEPTION || Message: Unknown column 'class' in 'where clause' || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   bei Visualization.FrmVisualization.AddNewRow(String sRowName, List`1 liKeyfigureNames, String sDataToSelect, String sFilter, DataTable dt, Int32 iDecimals) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 416.
+09.11.2017 21:41:31 - EXCEPTION || Message: An der Position 5 befindet sich keine Zeile. || StackTrace:    bei System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   bei System.Data.DataRowCollection.get_Item(Int32 index)
+   bei Visualization.FrmVisualization.KeyfiguresTable() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 362.
+14.11.2017 20:38:55 - EXCEPTION || Message: Der angegebene Schlüssel war nicht im Wörterbuch angegeben. || StackTrace:    bei System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   bei Visualization.FrmVisualization.KeyfiguresTable() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 352.
+14.11.2017 20:44:23 - EXCEPTION || Message: Der angegebene Schlüssel war nicht im Wörterbuch angegeben. || StackTrace:    bei System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   bei Visualization.FrmVisualization.KeyfiguresTable() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 352.
+16.11.2017 21:13:56 - EXCEPTION || Message: Die angegebene Umwandlung ist ungültig. || StackTrace:    bei Visualization.FrmVisualization.RejectsChart() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 317.
+16.11.2017 21:15:16 - EXCEPTION || Message: Die angegebene Umwandlung ist ungültig. || StackTrace:    bei Visualization.FrmVisualization.RejectsChart() in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\Form1.cs:Zeile 317.

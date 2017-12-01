@@ -1,0 +1,14 @@
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\obj\Debug\Visualization.csprojResolveAssemblyReference.cache
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\obj\Debug\Visualization.csproj.GenerateResource.Cache
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\obj\Debug\Visualization.csproj.CoreCompileInputs.cache
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\bin\Debug\General.dll
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\bin\Debug\MySql.Data.dll
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\bin\Debug\General.pdb
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\bin\Debug\General.dll.config
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\obj\Debug\Visualization.FrmVisualization.resources
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\bin\Debug\Visualization.exe.config
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\bin\Debug\Visualization.exe
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\bin\Debug\Visualization.pdb
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\obj\Debug\Visualization.Properties.Resources.resources
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\obj\Debug\Visualization.exe
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Visualization\obj\Debug\Visualization.pdb
