@@ -1,0 +1,39 @@
+
+22.10.2017 20:41:18 - EXCEPTION
+Message:
+login as user:  at domain:  failed
+StackTrace:
+   bei generalCopyJob.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CopyJob\Program.cs:Zeile 54.
+23.10.2017 20:44:19 - EXCEPTION
+Message:
+Ein Teil des Pfades "D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CreateLogFiles\bin\Debug\logFiles" konnte nicht gefunden werden.
+StackTrace:
+   bei System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   bei System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   bei System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   bei System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   bei generalCopyJob.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CopyJob\Program.cs:Zeile 60.
+08.11.2017 21:02:43 - EXCEPTION
+Message:
+Der Zugriff auf den Pfad "C:\Users\Peter\Desktop\logFiles\LineA\20171106.txt" wurde verweigert.
+StackTrace:
+   bei System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   bei System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   bei System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   bei generalCopyJob.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CopyJob\Program.cs:Zeile 69.
+08.11.2017 21:04:26 - EXCEPTION
+Message:
+Der Zugriff auf den Pfad "C:\Users\Peter\Desktop\logFiles\LineA\20171106.txt" wurde verweigert.
+StackTrace:
+   bei System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   bei System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   bei System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   bei generalCopyJob.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CopyJob\Program.cs:Zeile 69.
+08.11.2017 21:06:13 - EXCEPTION
+Message:
+Der Zugriff auf den Pfad "C:\Users\Peter\Desktop\logFiles\LineA\20171106.txt" wurde verweigert.
+StackTrace:
+   bei System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   bei System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   bei System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   bei generalCopyJob.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CopyJob\Program.cs:Zeile 69.

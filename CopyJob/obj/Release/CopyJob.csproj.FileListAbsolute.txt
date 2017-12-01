@@ -1,0 +1,10 @@
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CopyJob\bin\Release\generalCopyJob.exe.config
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CopyJob\bin\Release\generalCopyJob.exe
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CopyJob\bin\Release\generalCopyJob.pdb
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CopyJob\bin\Release\General.dll
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CopyJob\bin\Release\General.pdb
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CopyJob\bin\Release\General.dll.config
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CopyJob\obj\Release\CopyJob.csprojResolveAssemblyReference.cache
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CopyJob\obj\Release\CopyJob.csproj.CoreCompileInputs.cache
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CopyJob\obj\Release\generalCopyJob.exe
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CopyJob\obj\Release\generalCopyJob.pdb

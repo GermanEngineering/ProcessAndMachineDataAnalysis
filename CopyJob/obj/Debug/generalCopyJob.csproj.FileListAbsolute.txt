@@ -1,0 +1,13 @@
+D:\Neuer Ordner\projects\2017.05.19generalCopyJob\generalCopyJob\generalCopyJob\bin\Debug\generalCopyJob.exe.config
+D:\Neuer Ordner\projects\2017.05.19generalCopyJob\generalCopyJob\generalCopyJob\bin\Debug\generalCopyJob.exe
+D:\Neuer Ordner\projects\2017.05.19generalCopyJob\generalCopyJob\generalCopyJob\bin\Debug\generalCopyJob.pdb
+D:\Neuer Ordner\projects\2017.05.19generalCopyJob\generalCopyJob\generalCopyJob\bin\Debug\generalFunctionsClassLib.dll
+D:\Neuer Ordner\projects\2017.05.19generalCopyJob\generalCopyJob\generalCopyJob\obj\Debug\generalCopyJob.exe
+D:\Neuer Ordner\projects\2017.05.19generalCopyJob\generalCopyJob\generalCopyJob\obj\Debug\generalCopyJob.pdb
+D:\Neuer Ordner\projects\00_finished\2017.05.19generalCopyJob\generalCopyJob\generalCopyJob\bin\Debug\generalCopyJob.exe.config
+D:\Neuer Ordner\projects\00_finished\2017.05.19generalCopyJob\generalCopyJob\generalCopyJob\obj\Debug\generalCopyJob.exe
+D:\Neuer Ordner\projects\00_finished\2017.05.19generalCopyJob\generalCopyJob\generalCopyJob\obj\Debug\generalCopyJob.pdb
+D:\Neuer Ordner\projects\00_finished\2017.05.19generalCopyJob\generalCopyJob\generalCopyJob\bin\Debug\generalCopyJob.exe
+D:\Neuer Ordner\projects\00_finished\2017.05.19generalCopyJob\generalCopyJob\generalCopyJob\bin\Debug\generalCopyJob.pdb
+D:\Neuer Ordner\projects\00_finished\2017.05.19generalCopyJob\generalCopyJob\generalCopyJob\bin\Debug\generalFunctionsClassLib.dll
+D:\Neuer Ordner\projects\00_finished\2017.05.19generalCopyJob\generalCopyJob\generalCopyJob\obj\Debug\generalCopyJob.csprojResolveAssemblyReference.cache
