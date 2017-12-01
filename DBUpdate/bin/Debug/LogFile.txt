@@ -1,0 +1,238 @@
+
+08.11.2017 21:08:11 - EXCEPTION || Message: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt. || FilePath: C:\Users\Peter\Desktop\logFiles\LineA\20171106.txt || StackTrace:    bei MySql.Data.MySqlClient.NativeDriver.SendFileToServer(String filename)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+09.11.2017 20:35:49 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineA\20171109.txt
+09.11.2017 20:35:49 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineB\20171109.txt
+09.11.2017 20:35:49 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineC\20171109.txt
+15.11.2017 20:57:47 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineA\20171115.txt
+15.11.2017 20:57:47 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineB\20171115.txt
+15.11.2017 20:57:47 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineC\20171115.txt
+16.11.2017 19:09:34 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineA\20171108.txt
+16.11.2017 19:12:21 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineA\20171108.txt
+16.11.2017 19:12:21 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineB\20171108.txt
+16.11.2017 19:12:21 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineC\20171108.txt
+16.11.2017 19:25:50 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineA\20171108.txt
+16.11.2017 19:25:50 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineB\20171108.txt
+16.11.2017 19:25:50 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineC\20171108.txt
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineA\20171109.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineB\20171109.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineC\20171109.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineA\20171110.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineB\20171110.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineC\20171110.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineA\20171111.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineB\20171111.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineC\20171111.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineA\20171112.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineB\20171112.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineC\20171112.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineA\20171113.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineB\20171113.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineC\20171113.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineA\20171114.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineB\20171114.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineC\20171114.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineA\20171115.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineB\20171115.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineC\20171115.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineA\20171116.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineB\20171116.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 19:25:50 - EXCEPTION || Message: Out of range value for column '= CONVERT(REPLACE(@field2, ',', '.'), DECIMAL(6,5))' at row 1 || FilePath: C:\Users\Peter\Desktop\logFiles\LineC\20171116.txt || StackTrace:    bei MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   bei MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   bei MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   bei MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   bei DB_Update.Program.Main(String[] args) in D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\Program.cs:Zeile 86.
+16.11.2017 20:11:48 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineA\20171108.txt
+16.11.2017 20:11:48 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineB\20171108.txt
+16.11.2017 20:11:48 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineC\20171108.txt
+16.11.2017 21:33:37 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineA\20171108.txt
+16.11.2017 21:33:37 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineB\20171108.txt
+16.11.2017 21:33:37 - 
+Couldnt find file: C:\Users\Peter\Desktop\logFiles\LineC\20171108.txt
