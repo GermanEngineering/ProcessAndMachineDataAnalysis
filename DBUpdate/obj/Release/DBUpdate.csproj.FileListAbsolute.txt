@@ -1,11 +1,11 @@
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\bin\Release\DB_Update.exe.config
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\bin\Release\DB_Update.exe
+D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\bin\Release\DB_Update.pdb
 D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\bin\Release\General.dll
 D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\bin\Release\MySql.Data.dll
 D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\bin\Release\General.pdb
 D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\bin\Release\General.dll.config
 D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\obj\Release\DBUpdate.csprojResolveAssemblyReference.cache
 D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\obj\Release\DBUpdate.csproj.CoreCompileInputs.cache
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\bin\Release\DB_Update.exe.config
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\bin\Release\DB_Update.exe
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\bin\Release\DB_Update.pdb
 D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\obj\Release\DB_Update.exe
 D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\DBUpdate\obj\Release\DB_Update.pdb

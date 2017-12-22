@@ -25,10 +25,12 @@ namespace CreateLogFiles
                 {
                     for (int i = 0; i < days; i++) // loop through all days
                     {
-                        string sFilePath = AppDomain.CurrentDomain.BaseDirectory + "\\logFiles\\" + productionLine.Attributes["line"].Value + "\\" + DateTime.Today.AddDays(-i).ToString("yyyyMMdd") + ".txt";  // assemble file name
-                        if (!System.IO.File.Exists(sFilePath))
+                        string FilePath = AppDomain.CurrentDomain.BaseDirectory + "\\logFiles\\" + productionLine.Attributes["line"].Value;
+                        System.IO.Directory.CreateDirectory(FilePath); // create path if it doesnt exist
+                        string FilePathAndName = FilePath + "\\" + DateTime.Today.AddDays(-i).ToString("yyyyMMdd") + ".txt";                        
+                        if (!System.IO.File.Exists(FilePathAndName))
                         {
-                            System.IO.StreamWriter objFileWriter = new System.IO.StreamWriter(sFilePath, false); // create new file writer object
+                            System.IO.StreamWriter objFileWriter = new System.IO.StreamWriter(FilePathAndName, false); // create new file writer object
 
                             DateTime timestamp = new DateTime(DateTime.Today.Year, DateTime.Now.Month, DateTime.Now.AddDays(-i).Day, 0, 0, 0);
 
