@@ -1,9 +1,0 @@
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\bin\Release\Cryptography.exe
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\bin\Release\Cryptography.pdb
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\obj\Release\Cryptography.csprojResolveAssemblyReference.cache
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\obj\Release\Cryptography.Form1.resources
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\obj\Release\Cryptography.Properties.Resources.resources
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\obj\Release\Cryptography.csproj.GenerateResource.Cache
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\obj\Release\Cryptography.csproj.CoreCompileInputs.cache
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\obj\Release\Cryptography.exe
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\obj\Release\Cryptography.pdb

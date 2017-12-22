@@ -1,6 +1,0 @@
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\GeneralFunctions\bin\Release\General.dll.config
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\GeneralFunctions\bin\Release\General.dll
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\GeneralFunctions\bin\Release\General.pdb
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\GeneralFunctions\obj\Release\General.csproj.CoreCompileInputs.cache
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\GeneralFunctions\obj\Release\General.dll
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\GeneralFunctions\obj\Release\General.pdb

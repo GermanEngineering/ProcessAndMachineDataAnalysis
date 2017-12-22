@@ -1,7 +1,0 @@
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\GeneralFunctions\obj\Debug\General.csprojResolveAssemblyReference.cache
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\GeneralFunctions\obj\Debug\General.csproj.CoreCompileInputs.cache
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\GeneralFunctions\bin\Debug\General.dll.config
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\GeneralFunctions\bin\Debug\General.dll
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\GeneralFunctions\bin\Debug\General.pdb
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\GeneralFunctions\obj\Debug\General.dll
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\GeneralFunctions\obj\Debug\General.pdb

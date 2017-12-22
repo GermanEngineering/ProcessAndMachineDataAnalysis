@@ -8,12 +8,3 @@ D:\Neuer Ordner\projects\2017.05.12Cryptography\Cryptography\Cryptography\obj\De
 D:\Neuer Ordner\projects\2017.05.12Cryptography\Cryptography\Cryptography\obj\Debug\Cryptography.pdb
 D:\Neuer Ordner\projects\00_finished\2017.05.12Cryptography\Cryptography\Cryptography\obj\Debug\Cryptography.exe
 D:\Neuer Ordner\projects\00_finished\2017.05.12Cryptography\Cryptography\Cryptography\obj\Debug\Cryptography.pdb
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\bin\Debug\Cryptography.exe
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\bin\Debug\Cryptography.pdb
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\obj\Debug\Cryptography.csprojResolveAssemblyReference.cache
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\obj\Debug\Cryptography.Form1.resources
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\obj\Debug\Cryptography.Properties.Resources.resources
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\obj\Debug\Cryptography.csproj.GenerateResource.Cache
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\obj\Debug\Cryptography.csproj.CoreCompileInputs.cache
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\obj\Debug\Cryptography.exe
-D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\Cryptography\obj\Debug\Cryptography.pdb
