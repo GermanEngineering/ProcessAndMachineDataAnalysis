@@ -1,2 +1,15 @@
+.vs/
+
 CreateLogFiles/bin/
 CopyJob/bin/
+Cryptography/bin/
+DBUpdate/bin/
+GeneralFunctions/bin/
+Visualization/bin/
+
+CreateLogFiles/obj/
+CopyJob/obj/
+Cryptography/obj/
+DBUpdate/obj/
+GeneralFunctions/obj/
+Visualization/obj/
