@@ -3,9 +3,9 @@
   <settings>
     <updateTimeframe updateTimeframe="8"/> <!-- number of updated days  -->
     <mySQLConnectionString mySQLConnectionString="server=localhost;database=process_and_machine_data;uid=root;password="/>
-    <mySQLConnPW mySQLConnPW="hNYgwZt8ITa4Ln+VvSTLVA=="/>
+    <mySQLConnPW mySQLConnPW="LvWO94GyV9DTfAKzzmrnWQ=="/>
     <decryptKey decryptKey="Miau"/> <!-- decryption Key for connection password -->
-    <consoleStatus consoleStatus="1"/> <!-- programm status as console output - 1:on / 0:off -->
+    <consoleStatus consoleStatus="0"/> <!-- programm status as console output - 1:on / 0:off -->
   </settings>
   <machines>
     <machine Name="LineA" ToolID="10" DomainAdress="" FilePath="C:\Users\Peter\Desktop\logFiles\LineA\" FileType=".txt" DBTable="throughput"/>

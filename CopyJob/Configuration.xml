@@ -2,11 +2,11 @@
 <configuration>
   <settings>
     <syncedDays syncedDays="8"/> <!-- number of synchronised days  -->
-    <consoleStatus consoleStatus="1"/> <!-- programm status as console output - 1:on / 0:off -->
+    <consoleStatus consoleStatus="0"/> <!-- programm status as console output - 1:on / 0:off -->
     <decryptKey decryptKey="Miau"/> <!-- decryption Key for login password password -->
   </settings>
   <folders>
     <!-- eg.: <folder copyJobName="Name" sourcePath="\\10.36.99.999\folderName\" destinationPath="C:\Users\Peter\Desktop\" loginUser="UserName" loginPassword="Neq3RekV5qIU7tl/0iNhpw==" loginDomain="domainName"/> -->
-    <folder copyJobName="LogFilesToDesktop" sourcePath="D:\x\xxx\GE\2017.10.06ProcessMachineDataAnlysis\ProcessAndMachineDataAnalysis\CreateLogFiles\bin\Debug\logFiles\" destinationPath="C:\Users\Peter\Desktop\logFiles\" loginUser="" loginPassword="" loginDomain=""/>
+    <folder copyJobName="LogFilesToDesktop" sourcePath="\\WIN7X64SP1-PC\Users\Win7x64SP1\Desktop\createLogFiles" destinationPath="C:\Users\Peter\Desktop\" loginUser="Win7x64SP1" loginPassword="LvWO94GyV9DTfAKzzmrnWQ==" loginDomain=""/>
 </folders>
 </configuration>

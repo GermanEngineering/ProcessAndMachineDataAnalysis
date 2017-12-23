@@ -2,7 +2,7 @@
 <configuration>
   <settings>
     <mySQLConnectionString mySQLConnectionString="server=localhost;database=process_and_machine_data;uid=root;password="/>
-    <mySQLConnPW mySQLConnPW="hNYgwZt8ITa4Ln+VvSTLVA=="/>
+    <mySQLConnPW mySQLConnPW="LvWO94GyV9DTfAKzzmrnWQ=="/>
     <decryptKey decryptKey="Miau"/>
     <smtp host="172.16.99.99" port="99" credentialsUser="pk" credentialsPassword="gYEeirnDo4e6fv28HbixZaQe+VK1O7165QXlQpzI=" decryptKey="Miau"/>    
     <mail sender="sender@gmail.com" 
