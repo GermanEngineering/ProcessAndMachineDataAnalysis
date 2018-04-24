@@ -10,4 +10,4 @@ You will also be able to automatically evaluate key figures like process time or
 
 Since I started the project I've spend a lot of time to learn coding and at this point I'm aware of the bad coding style of the project.
 I uploaded it anyway, because it works and I'm sure that it can be very useful.
-It will be a huge help if you apply it in your production, but you should definitely be carful to NOT take this as an example of how to write code!
+It will be a huge help if you apply it in your production, but you should definitely be careful to NOT take this as an example of how to write code!
